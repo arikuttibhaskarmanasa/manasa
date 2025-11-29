@@ -58,7 +58,7 @@ A comprehensive attendance tracking system built with React, TypeScript, Supabas
 
 ### 1. Clone the Repository
 ```bash
-git clone <repository-url>
+git clone https://github.com/arikuttibhaskarmanasa/attendancesystem.git
 cd employee-attendance-system
 ```
 
